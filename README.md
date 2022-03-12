@@ -1,0 +1,2 @@
+# Treating-Raw-Housing-Data-using-SQL
+This project covers the very important step of the data cleaning stage of the data science life cycle. The goal is to clean noisy data and treat missing values in the project using SQL functions like PARTITION BY, WINDOWS FUCNTIONS, CTE, CRUD Functions (ALTER, UPDATE, INSERT, DELETE) and String functions like CHRAINDEX, SUBSTR etc. The project also uses the concept of statistical tools like frequency distribution for treating the categorical data. Hope this projects help in establishing basic understanding of data cleaning using SQL.
